@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class CWH_05_TakingInputs {
     public static void main(String[] args) {
-        System.out.println("Taking Input from the user");
+        System.out.println("Taking Input from the users");
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter number 1");
 //        int a = sc.nextInt();
